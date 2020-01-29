@@ -8,6 +8,9 @@
 </p>
 
 ## Uso
+
+Crear en en tugestor de mysql la Base de datos llamada  `pruebaLaravel` o la puedes cambiar en el archivo `.env` colocando tus credenciales de acceso
+
 Si tene laragon o xampp mover o clonar en la carpeta  `www`  o `htdocs`
 * Correr migraciones
 ```sh
